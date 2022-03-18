@@ -1,8 +1,8 @@
 import React from 'react';
 import '../styles/Home.css';
-import PostCard from '../components/PostCard';
-import FollowCard from '../components/FollowCard';
-import Footer from '../components/Footer';
+// import PostCard from '../components/PostCard';
+// import FollowCard from '../components/FollowCard';
+// import Footer from '../components/Footer';
 import Big from '../assests/big.png';
 import Small from '../assests/small.png';
 
